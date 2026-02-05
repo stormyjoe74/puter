@@ -72,7 +72,7 @@
 }
 
 * {
-    font-family: "Inter", "Helvetica Neue", HelveticaNeue, Helvetica, Arial, sans-serif;
+    font-family: "Inter", "Helvetica Neu", HelveticaNeue, Helvetica, Arial, sans-serif;
     user-select: none;
     font-optical-sizing: auto;
     font-style: normal;
@@ -125,7 +125,7 @@ body {
     background: no-repeat center center fixed;
     background-position: center;
     background-size: cover;
-    background-color: #3d4c74;
+    background-color: #0E294B;
     overflow: hidden;
 }
 
